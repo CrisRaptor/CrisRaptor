@@ -1,5 +1,5 @@
 <div id="header" align="center" style="display: grid; align-items: center; grid-template-columns: 1fr 1fr 1fr; column-gap: 5px;">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/embed/TMMbKhReNwZNak8Wah)"/>
   <p>Hi there, I'm CrisR</p>
 </div>
 <!--

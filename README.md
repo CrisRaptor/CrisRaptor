@@ -1,4 +1,4 @@
-<div style="align-items: center;">
+<div style="align-items: center; justify-content: center;">
 <h2 style="font-weight: bold; ">Hi there, I'm CrisR () {</h2>
 </div>
 Here are some ideas to get you started:

@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div id="header" align="center" style="display: grid; align-items: center; grid-template-columns: 1fr 1fr 1fr; column-gap: 5px;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  <p>Hi there, I'm CrisR</p>
+</div>
 <!--
 **CrisRaptor/CrisRaptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

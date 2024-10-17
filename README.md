@@ -1,6 +1,6 @@
 <div id="header" align="center" style="display: grid; align-items: center; grid-template-columns: 1fr 1fr 1fr; column-gap: 5px;">
   <p>Hi there, I'm CrisR</p>
-  <img src="https://media.giphy.com/media/irVmlMu1zlgyBYGyxO/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/irVmlMu1zlgyBYGyxO/giphy.gif"/>
   
 </div>
 <!--

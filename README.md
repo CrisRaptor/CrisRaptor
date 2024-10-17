@@ -1,4 +1,6 @@
-<h2 style="font-weight: bold;">Hi there, I'm CrisR () {</h2>
+<div style="align-items: center;">
+<h2 style="font-weight: bold; ">Hi there, I'm CrisR () {</h2>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

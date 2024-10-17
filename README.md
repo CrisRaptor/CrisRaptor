@@ -3,7 +3,7 @@
   
   
 </div>
-<img src="[https://media.giphy.com/media/irVmlMu1zlgyBYGyxO/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p3MHhkcG5waDg1ZnZoY255N2ZqbXFnMngzNWJqOG1ucGVpdDV3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TMMbKhReNwZNak8Wah/giphy.webp)" width="250"/>
+<iframe src="https://giphy.com/embed/TMMbKhReNwZNak8Wah" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/MicrosoftCloud-microsoft-cloud-ms-TMMbKhReNwZNak8Wah">via GIPHY</a></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

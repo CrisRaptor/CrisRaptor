@@ -1,10 +1,8 @@
-<div id="header" align="center" style="display: grid; align-items: center; grid-template-columns: 1fr 1fr 1fr; column-gap: 5px;">
+<div id="header" align="center" style="display: grid; align-items: center; column-gap: 5px;">
   <p>Hi there, I'm CrisR</p>
-  <img src="https://media.giphy.com/media/irVmlMu1zlgyBYGyxO/giphy.gif"/>
+  <img src="https://media.giphy.com/media/irVmlMu1zlgyBYGyxO/giphy.gif" width="250"/>
   
 </div>
-<!--
-**CrisRaptor/CrisRaptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

@@ -1,6 +1,6 @@
 <div id="header" align="center" style="display: grid; align-items: center; column-gap: 5px;">
   <h2>Hi there, I'm CrisR</h2>
-  <h1>{</h1>
+  <p style="font-size: 200%;">{</p>
 </div>
 Here are some ideas to get you started:
 

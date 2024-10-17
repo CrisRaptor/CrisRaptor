@@ -1,6 +1,6 @@
 <div id="header" align="center" style="display: grid; align-items: center; grid-template-columns: 1fr 1fr 1fr; column-gap: 5px;">
   <p>Hi there, I'm CrisR</p>
-  <img src="https://giphy.com/stickers/MicrosoftCloud-microsoft-cloud-ms-TMMbKhReNwZNak8Wah"/>
+  <img src="https://giphy.com/stickers/MicrosoftCloud-microsoft-cloud-ms-TMMbKhReNwZNak8Wah" width=100/>
   
 </div>
 <!--

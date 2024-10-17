@@ -1,9 +1,7 @@
 <div id="header" align="center" style="display: grid; align-items: center; column-gap: 5px;">
-  <p>Hi there, I'm CrisR</p>
-  
-  
+  <h2>Hi there, I'm CrisR</h2>
+  <h1>{</h1>
 </div>
-<img src="https://giphy.com/embed/TMMbKhReNwZNak8Wah" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

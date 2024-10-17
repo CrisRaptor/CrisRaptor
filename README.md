@@ -1,5 +1,5 @@
 <div id="header" align="center" style="display: grid; align-items: center; grid-template-columns: 1fr 1fr 1fr; column-gap: 5px;">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx](https://giphy.com/embed/TMMbKhReNwZNak8Wah)"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx"/>
   <p>Hi there, I'm CrisR</p>
 </div>
 <iframe src="https://giphy.com/embed/TMMbKhReNwZNak8Wah" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/MicrosoftCloud-microsoft-cloud-ms-TMMbKhReNwZNak8Wah">via GIPHY</a></p>

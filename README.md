@@ -31,6 +31,8 @@ Description...
   <h6>Databases</h6>
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres Badge"/>
 <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+  <h6>Pixel art</h6>
+<img src="https://img.shields.io/badge/aseprite-%236a5a66.svg?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite Badge"/>
     </td>
     
    <td>
@@ -53,6 +55,8 @@ Description...
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VisualStudioCode Badge"/>
 <img src="https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VisualStudio Badge"/>
 <img src="https://img.shields.io/badge/apache%20netbeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans Badge"/>
+    <h6>Image editors</h6>
+<img src="https://img.shields.io/badge/pixlr-%2347c4eb.svg?style=for-the-badge&logo=pixlr&logoColor=white" alt="NetBeans Badge"/>
     </td>
  </tr>
 </table>

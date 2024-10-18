@@ -20,34 +20,34 @@ Description...
 </tr>
  <tr>
     <td>
-  <h5>Back End</h5>
+  <h6>Back End</h6>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
-  <h5>Front End</h5>
+  <h6>Front End</h6>
 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html5 Badge"/>
 <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css Badge"/>
-  <h5>Scripts</h5>
+  <h6>Scripts</h6>
 <img src="https://img.shields.io/badge/GNU%20bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/>
 <img src="https://img.shields.io/badge/power%20shell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge"/>
-  <h5>Databases</h5>
+  <h6>Databases</h6>
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres Badge"/>
 <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
     </td>
     
    <td>
-  <h5>Frameworks & Libraries</h5>
+  <h6>Frameworks & Libraries</h6>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Badge"/>
 <img src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node Badge"/>
-  <h5>Project Management</h5>
+  <h6>Project Management</h6>
 <img src="https://img.shields.io/badge/jira%20software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="Jira Badge"/>
 <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
-   <h5> Build tools</h5>
+   <h6> Build tools</h6>
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven Badge"/>
-  <h5> Version control</h5>
+  <h6> Version control</h6>
 <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
    </td>
 
   <td>
-       <h5>IDEs</h5>
+       <h6>IDEs</h6>
 <img src="https://img.shields.io/badge/IntelliJ-grey.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ Badge"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio Badge"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VisualStudioCode Badge"/>

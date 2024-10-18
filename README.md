@@ -17,8 +17,6 @@ Description...
   <h5>Databases</h5>
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres Badge"/>
 <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  <!--https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-  https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white-->
   <h5>IDEs</h5>
 <img src="https://img.shields.io/badge/IntelliJ-grey.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ Badge"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio Badge"/>

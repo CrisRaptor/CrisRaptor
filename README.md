@@ -61,16 +61,18 @@ Description...
  </tr>
 </table>
 </div> 
-  
-<h3>Currently Learning</h3>
+
+<table border="0">
+<tr>
+  <td width="60%" valign="top">
+    <h3>Currently Learning</h3>
 <div id="badges">
 <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
 <img src="https://img.shields.io/badge/odoo-714B67.svg?style=for-the-badge&logo=odoo&logoColor=white" alt="ODOO Badge"/>
 </div>
-
-<h3>Queued Skills</h3>
+  <h3>Queued Skills</h3>
 <div id="badges">
 <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate Badge"/>
 <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
@@ -78,8 +80,18 @@ Description...
 <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON Badge"/>
 </div>
+  </td>
+   <td width="40%" valign="top">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisRaptor&layout=donut&langs_count=8&theme=transparent" alt="Top Langs Stats"/>
+   
+   </td>
+ </tr>
+</table>
+</div> 
+
+
+
 <h3>Contact</h3>
-<a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<a href="https://www.linkedin.com/in/cristian-garc%C3%ADa-chamizo/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<a href="mailto:cristiangarcha7@gmail.com"><img src="https://img.shields.io/badge/cristiangarcha7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 }

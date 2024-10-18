@@ -55,8 +55,9 @@ Description...
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VisualStudioCode Badge"/>
 <img src="https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VisualStudio Badge"/>
 <img src="https://img.shields.io/badge/apache%20netbeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans Badge"/>
-    <h6>Image editors</h6>
-<img src="https://img.shields.io/badge/pixlr-%2347c4eb.svg?style=for-the-badge&logo=pixlr&logoColor=white" alt="NetBeans Badge"/>
+    <h6>Desing</h6>
+<img src="https://img.shields.io/badge/pixlr-%2347c4eb.svg?style=for-the-badge&logo=pixlr&logoColor=white" alt="Pixlr Badge"/>
+<img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
     </td>
  </tr>
 </table>

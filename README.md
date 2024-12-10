@@ -1,9 +1,6 @@
 <div align="center">
   <h2 style="font-weight: bold; ">Hi there, I'm CrisR () {</h2>
 </div>
-
-Description...
-
 <h3>My Skills</h3>
 <div id="badges">
 <table border="0">

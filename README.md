@@ -65,7 +65,9 @@
 <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
 <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON Badge"/>
-    </td>
+    <h6>Virtualization</h6>
+<img src="https://img.shields.io/badge/virtualbox-2F61B4.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtualbox Badge"/>
+  </td>
  </tr>
 </table>
 </div> 

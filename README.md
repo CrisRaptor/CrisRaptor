@@ -74,6 +74,8 @@
 <div id="badges">
 <img src="https://img.shields.io/badge/odoo-714B67.svg?style=for-the-badge&logo=odoo&logoColor=white" alt="ODOO Badge"/>
 <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
+<img src="https://img.shields.io/badge/angular-0F0F11.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge"/>
+<img src="https://img.shields.io/badge/xml-005FAD.svg?style=for-the-badge&logo=xml&logoColor=white" alt="XML Badge"/>
 
 </div>
   <h3>Queued Skills</h3>

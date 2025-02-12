@@ -19,9 +19,12 @@
     <td>
   <h6>Back End</h6>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
+<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"/>
   <h6>Front End</h6>
 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html5 Badge"/>
 <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css Badge"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
   <h6>Scripts</h6>
 <img src="https://img.shields.io/badge/GNU%20bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/>
 <img src="https://img.shields.io/badge/power%20shell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell Badge"/>
@@ -55,6 +58,10 @@
     <h6>Desing</h6>
 <img src="https://img.shields.io/badge/pixlr-%2347c4eb.svg?style=for-the-badge&logo=pixlr&logoColor=white" alt="Pixlr Badge"/>
 <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+    <h6>Data Managment</h6>
+<img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate Badge"/>
+<img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
+<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON Badge"/>
     </td>
  </tr>
 </table>
@@ -65,19 +72,14 @@
   <td width="60%" valign="top">
     <h3>Currently Learning</h3>
 <div id="badges">
-<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
 <img src="https://img.shields.io/badge/odoo-714B67.svg?style=for-the-badge&logo=odoo&logoColor=white" alt="ODOO Badge"/>
-<img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate Badge"/>
-<img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
-<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON Badge"/>
+<img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
 
 </div>
   <h3>Queued Skills</h3>
 <div id="badges">
 <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge"/>
-<img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/>
+
 </div>
   </td>
    <td width="40%" valign="top">

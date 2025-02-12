@@ -97,4 +97,4 @@
 <h3>Contact</h3>
 <a href="https://www.linkedin.com/in/cristian-garc%C3%ADa-chamizo/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 <a href="mailto:cristiangarcha7@gmail.com"><img src="https://img.shields.io/badge/cristiangarcha7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-}
+<br>}

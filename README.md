@@ -39,11 +39,13 @@
   <h6>Frameworks & Libraries</h6>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Badge"/>
 <img src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node Badge"/>
+<img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
   <h6>Project Management</h6>
 <img src="https://img.shields.io/badge/jira%20software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="Jira Badge"/>
 <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
    <h6> Build tools</h6>
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven Badge"/>
+<img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle Badge"/>
   <h6> Version control</h6>
 <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
    </td>

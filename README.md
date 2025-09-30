@@ -20,10 +20,10 @@
   <h6>Back End</h6>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
 <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge"/>
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c&logoColor=white" alt="C# Badge"/>
   <h6>Front End</h6>
 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html5 Badge"/>
-<img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Css Badge"/>
+<img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="Css Badge"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
   <h6>Scripts</h6>
 <img src="https://img.shields.io/badge/GNU%20bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Badge"/>
@@ -48,6 +48,9 @@
 <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle Badge"/>
   <h6> Version control</h6>
 <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <h6>Contanization</h6>
+<img src="https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white" alt="Podman Badge"/>
+<img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
    </td>
 
   <td>
@@ -65,6 +68,7 @@
 <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge"/>
 <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
 <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=json&logoColor=white" alt="JSON Badge"/>
+<img src="https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka Badge"/>
     <h6>Virtualization</h6>
 <img src="https://img.shields.io/badge/virtualbox-2F61B4.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtualbox Badge"/>
   </td>
@@ -86,6 +90,7 @@
   <h3>Queued Skills</h3>
 <div id="badges">
 <img src="https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge"/>
+
 
 </div>
   </td>

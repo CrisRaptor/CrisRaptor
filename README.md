@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle Badge"/>
   <h6> Version control</h6>
 <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <h6>Contanization</h6>
+  <h6>Containerization</h6>
 <img src="https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white" alt="Podman Badge"/>
 <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
    </td>
